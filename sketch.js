@@ -344,7 +344,7 @@ const START_BUTTON_TEXT_SIZE = "40px";
 let onMenu = true;
 let inMiniGame = false;
 
-const ITEM_SIZE = 150;
+const ITEM_SIZE = 200;
 const ITEM_FALL_SPEED = [0.5, 0.75];
 const ITEM_SPAWN_INTERVAL = [750, 2250];
 const ITEM_LIST = [];
